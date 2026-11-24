@@ -7,5 +7,6 @@
 * **OS:** macOS
 
 ## Software Environment, Parameter Settings, and Experimental Conditions
+- All of the codes are written using VS Code.
 - All details are available in the four provided Jupyter notebooks.
 - Run the code cells to generate the `.npy` files used for the evaluation.
